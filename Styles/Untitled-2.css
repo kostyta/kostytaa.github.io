@@ -1,0 +1,34 @@
+*
+{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(100,88,170,1) 100%);
+margin: 0px;
+padding: 0%;
+text-decoration: double;
+}
+.wer
+{
+    text-align: center;
+    font-size: 260%;
+}
+.создатели
+{
+    text-align: center;
+    font-size: 150%;
+}
+.waaa
+{
+ text-align: center;
+ font-size: 300%;   
+}
+.сылка
+{
+    text-decoration: dashed;
+    right: 50p;
+}
+.видео
+{
+    text-align: center;
+    font-size: 250%;
+}
+
